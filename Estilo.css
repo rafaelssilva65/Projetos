@@ -1,0 +1,40 @@
+h1{
+    font-size: 40px;
+    color:#B22222;
+    font-weight: 800;
+    font-style: fantasy;
+}
+body{
+    font-size: 20px;
+}
+.btn{
+    font-family: arial;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    border:none;
+    padding: 10px;
+    cursor: pointer;
+}
+.btn-red{
+    background:red;
+    color:black;
+}
+
+.button{
+    color: firebrick
+        
+}
+
+
+
+
+
+
+
+    
+    
+    
+    
+
+
